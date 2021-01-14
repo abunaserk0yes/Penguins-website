@@ -1,0 +1,107 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.btn {
+    background-image: linear-gradient(#f1f1b7, #89a11c);
+    color: white;
+    font-weight: bold;
+    border: 0;
+}
+
+.top-banner {
+    background-color: #FFFBF0;
+}
+
+.logo {
+    height: 35px;
+}
+
+.highlight-text {
+    color: #FABE4C;
+}
+
+p {
+    font-size: 14px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 3.8em;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-bottom: 1em;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+h3,
+h4 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+h5 {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.navigation-menu a {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-img {
+    width: 100%;
+}
+
+.banner-title {
+    width: 550px;
+}
+
+.my-card {
+    border: 0;
+}
+
+.my-card img {
+    width: 270px;
+    height: 300px;
+    padding: 10%;
+    margin-left: 12%;
+    margin-top: 30px;
+    background: #F1F1F1;
+    border-radius: 10px;
+}
+
+.product-footer {
+    border: 0;
+    background-color: white;
+}
+
+.product-footer button {
+    margin-left: 35px;
+}
+
+.gutter-img {
+    width: 100%;
+    margin-top: 20%;
+}
+
+.gutter-icon {
+    height: 70px;
+}
+
+.gutter-text img {
+    float: left;
+}
